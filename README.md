@@ -1,7 +1,8 @@
 ### Olá, me chamo Bruno
 
--Estudante de Análise e Desenvolvimento de Sistemas;
--Autodidata, back-end developer;
+- Estudante de Análise e Desenvolvimento de Sistemas &nbsp;
+- Autodidata &nbsp; 
+- Desenvolvedor Back-End&nbsp;
 
 
 ### 🛠 &nbsp;Languages and Tools:
