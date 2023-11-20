@@ -1,7 +1,7 @@
 ### Olá, me chamo Bruno
 
 - Estudante de Análise e Desenvolvimento de Sistemas &nbsp;
-- Desenvolvedor Back-End&nbsp;
+- Estudante autoditada;
 
 
 ### 🛠 &nbsp;Languages and Tools:
