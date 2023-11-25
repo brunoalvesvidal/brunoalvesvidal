@@ -1,9 +1,4 @@
 ### Olá, me chamo Bruno
-
-- Estudante de Análise e Desenvolvimento de Sistemas &nbsp;
-- Estudante autoditada;
-
-
 ### 🛠 &nbsp;Languages and Tools:
 
 <p>
