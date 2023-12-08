@@ -1,5 +1,14 @@
 ### Olá, me chamo Bruno
 ### 🛠 &nbsp;Techs:
+Bem vindo ao meu GitHub🚀
+👦Sobre mim:
+
+📌 Minas Gerais, Brasil.
+🎓 Cursando Análise e Desenvolvimento de Sistemas.
+🎓 Formado como Técnico em Informatica.
+👨‍🏫 Atualmente estou trabalhando como Suporte, em busca da primeira oportunidade como Desenvolvedor
+📚 Estudando Python, Flask, Estrutura de Dados, POO, API's.
+
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
