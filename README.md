@@ -1,7 +1,6 @@
 ### Olá, me chamo Bruno
 
 Bem vindo ao meu GitHub🚀 <br/>
-👦Sobre mim:
 <p>
 📌 Minas Gerais, Brasil.<br/>
 🎓 Cursando Análise e Desenvolvimento de Sistemas na Estácio.<br/>
