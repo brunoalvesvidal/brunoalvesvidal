@@ -5,7 +5,6 @@ Bem vindo ao meu GitHub🚀 <br/>
 📌 Minas Gerais, Brasil.<br/>
 🎓 Cursando Análise e Desenvolvimento de Sistemas na Estácio.<br/>
 🎓 Formado em Técnico Informatica pelo IF Sudeste MG.<br/>
-👨‍🏫 Atualmente estou trabalhando como Suporte, em busca da primeira oportunidade como Desenvolvedor.<br/>
 📚 Estudando Python, Flask, Estrutura de Dados, POO, API's.<br/>
 </p>
 
