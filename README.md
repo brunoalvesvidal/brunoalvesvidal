@@ -3,7 +3,7 @@
 Bem vindo ao meu GitHub🚀 <br/>
 <p>
 📌 Minas Gerais, Brasil.<br/>
-🎓 Cursando Análise e Desenvolvimento de Sistemas (4/5).<br/>
+🎓 Cursando Análise e Desenvolvimento de Sistemas (5/5).<br/>
 🎓 Formado em Técnico Informatica pelo IF Sudeste MG.<br/>
 📚 Estudando Python, Flask, FastAPI, Estrutura de Dados, POO, API's.<br/>
 </p>
