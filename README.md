@@ -2,9 +2,9 @@
 
 Bem vindo ao meu GitHub🚀 <br/>
 <p>
-🎓 Análise e Desenvolvimento de Sistemas (5/5).<br/>
+🎓 Análise e Desenvolvimento de Sistemas.<br/>
 🎓 Técnico Informatica pelo IF Sudeste MG.<br/>
-📚 Estudando Python, Flask, FastAPI, Estrutura de Dados, POO, SQL, API's.<br/>
+📚 Python, Flask, FastAPI, Estrutura de Dados, POO, SQL, API's.<br/>
 </p>
 
 ### 🛠 &nbsp;Techs:
