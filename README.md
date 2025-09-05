@@ -2,7 +2,7 @@
 
 Bem vindo ao meu GitHub🚀 <br/>
 <p>
-🎯 Analista de Sistemas em transição para Desenvolvedor Back-end <br/>
+🎯 Desenvolvedor Back-end <br/>
 💻 Apaixonado por resolver problemas com Python, APIs e automações <br/>
 💼 [LinkedIn](https://www.linkedin.com/in/brunoalvesvidal/) <br/>
 ✉️ Email: brunoalvesvidal20@gmail.com <br/>
