@@ -4,7 +4,6 @@ Bem vindo ao meu GitHub🚀 <br/>
 <p>
 🎯 Desenvolvedor Back-end <br/>
 💻 Apaixonado por resolver problemas com Python, APIs e automações <br/>
-💼 [LinkedIn](https://www.linkedin.com/in/brunoalvesvidal/) <br/>
 ✉️ Email: brunoalvesvidal20@gmail.com <br/>
 </p>
 
