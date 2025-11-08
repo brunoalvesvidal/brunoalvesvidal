@@ -2,7 +2,7 @@
 
 Bem vindo ao meu GitHub🚀 <br/>
 <p>
-🎯 Desenvolvedor Back-end <br/>
+🎯 Desenvolvedor Backend <br/>
 💻 Apaixonado por resolver problemas com Python, APIs e automações <br/>
 ✉️ Email: brunoalvesvidal20@gmail.com <br/>
 </p>
